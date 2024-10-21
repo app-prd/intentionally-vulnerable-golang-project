@@ -76,7 +76,6 @@ require (
 	github.com/golang-sql/civil v0.0.0-20190719163853-cb61b32ac6fe // indirect
 	github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6 // indirect
 	github.com/golang/mock v1.3.1 // indirect
-	github.com/google/go-cmp v0.3.1 // indirect
 	github.com/google/go-github/v24 v24.0.1 // indirect
 	github.com/google/pprof v0.0.0-20190723021845-34ac40c74b70 // indirect
 	github.com/google/renameio v0.1.0 // indirect
@@ -169,11 +168,10 @@ require (
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.28.1-0.20241021190220-c17aa50fbd32
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
-	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
-	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
+	golang.org/x/net v0.25.0
+	golang.org/x/sys v0.26.0
 	google.golang.org/api v0.9.0 // indirect
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55 // indirect
 	google.golang.org/grpc v1.23.0 // indirect
